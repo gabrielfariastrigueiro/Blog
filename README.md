@@ -1,2 +1,2 @@
-# Blog-posts
+# Blog
 O projeto é um sistema de gerenciamento de postagens de um blog.
